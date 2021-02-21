@@ -1,5 +1,5 @@
 ### Hello there! :wave: I'm Satyam.
-* I'm a *sophomore* at **IIEST, Shibpur** majoring in **Computer Science and Technology**.
+* I'm a *sophomore* at **IIEST, Shibpur** majoring in **Computer Science and Technology** (2023).
 * I aim to build *tech-driven solutions* to major world problems.
 * I'm interested in **Web development** and **Machine Learning**.
 * Languages I can work with:
