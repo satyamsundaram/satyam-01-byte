@@ -1,9 +1,8 @@
-## Hello there! :wave: I'm Satyam.
-
-### I'm a *sophomore* at *IIEST, Shibpur* majoring in *Computer Science and Technology* (2023).
-### I aim to build *tech-driven solutions* to major world problems.
-### I'm interested in *Web development* and *Machine Learning*.
-### Languages I can work with:
+### Hello there! :wave: I'm Satyam.
+* I'm a *sophomore* at **IIEST, Shibpur** majoring in **Computer Science and Technology**.
+* I aim to build *tech-driven solutions* to major world problems.
+* I'm interested in **Web development** and **Machine Learning**.
+* Languages I can work with:
 
 <div style="display:flex;flex-direction:row; flex-wrap:wrap;jsutify-content:center;align-items:center">
     <img src="https://www.codeforcoder.com/static/images/c.png" alt="C" width="50px" style="margin:5px">
@@ -27,17 +26,17 @@
 <hr>
 <br/>
 <div style="display:flex;flex-direction:row; flex-wrap:wrap;jsutify-content:center;align-items:center">
-<div style="margin:5px;width:350px">
+<div style="margin:5px;width:300px">
 
 [![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyam-01-byte&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<div style="margin:5px;width:350px">
+<div style="margin:5px;width:301px">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyam-01-byte&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </div>
 </div>
 <hr>
 
-### Connect with me on: <a href="https://www.linkedin.com/in/satyam-sundaram-a5b2a3141/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="30px"></a>
+Connect with me on: <a href="https://www.linkedin.com/in/satyam-sundaram-a5b2a3141/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="30px"></a>
 
