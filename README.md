@@ -25,16 +25,13 @@
 <br/>
 <hr>
 <br/>
-<div style="display:flex;flex-direction:row; flex-wrap:wrap;jsutify-content:center;align-items:center">
-<div style="margin:5px;width:200px">
-
-[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyam-01-byte&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<div style="margin:5px;width:200px">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyam-01-byte&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-</div>
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center">
+    <div style="margin:5px;width:200px">
+        <img src="https://github-readme-stats.vercel.app/api?username=satyam-01-byte&show_icons=true&theme=tokyonight">
+    </div>
+    <div style="margin:5px;width:200px">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-01-byte&theme=dark">
+    </div>
 </div>
 <hr>
 
