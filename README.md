@@ -19,8 +19,8 @@
     <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" width="70px" style="margin:5px">
     <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="100px" style="margin:5px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="scikitlearn" width="100px" style="margin:5px">
-    <img src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png" alt="tensorflow" width="70px" style="margin:5px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="50px" style="margin:5px">
+    <!--<img src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png" alt="tensorflow" width="70px" style="margin:5px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="50px" style="margin:5px">-->
 </div>
 <br/>
 <hr>
