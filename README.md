@@ -1,7 +1,14 @@
 ### Hi! I'm Satyam Sundaram :wave:
 * 👨‍🎓️ Final year student at **IIEST, Shibpur** (2023).
 
-### [My Resume](https://drive.google.com/file/d/1lt8ggEmvsnlu8pdGdRzEdjc1IlCgIrqg/view?usp=sharing)
+### [My Resume](https://drive.google.com/file/d/1infDbY9GbGT5bqEjIVsn-w3R4ptTvhfy/view?usp=sharing)
+
+### Skills:
+- React.js, Next.js
+- Javascript, Typescript
+- MongoDB, Node.js, Express
+- C, C++, Python, SQL
+- Git, Github, Linux
 
 ### Socials:
 - [Email](mailto:satyamsundaram01@gmail.com)
